@@ -16,11 +16,6 @@ function loaderForm() {
         i = i + 1;
         progress.value = i / 20;
     };
-
 }
-
-
-
-
 
 form.addEventListener('submit', submitForm);
